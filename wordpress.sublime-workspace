@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_re",
+				"array_replace"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"person",
+				"person_3"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"name2",
+				"name2_size"
+			],
+			[
+				"name1",
+				"name1_size"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"tbl_",
+				"tbl_sales"
+			],
+			[
+				"tbl",
+				"tbl_transfer"
+			],
+			[
+				"mem",
+				"memcache_debug"
+			],
+			[
+				"Pass",
+				"Password"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tot_",
+				"tot_inc"
+			],
+			[
+				"in",
+				"income"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"build",
+				"Set Syntax: NAnt Build File"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp2/htdocs/flames.php",
+		"/C/xmapp/xampp/htdocs/flames.php",
+		"/C/xampp2/htdocs/prompt/config/app.php",
+		"/C/xampp2/htdocs/wordpress/wp-content/plugins/karthik.php",
+		"/C/xampp2/htdocs/wordpress/wp-content/plugins/karthik_action.php",
+		"/C/xampp2/htdocs/karthik/index.html",
+		"/C/xampp2/htdocs/karthik/test.php",
+		"/G/karthik/index.html",
+		"/C/xampp2/htdocs/prompt/app/Http/Controllers/MLM/user/UserController.php",
+		"/C/xampp2/htdocs/prompt/resources/views/temp1/user/downline.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/temp1/app.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/temp1/user/epins.blade.php",
+		"/C/xampp2/htdocs/prompt/app/Http/Controllers/MLM/admin/InventoryController.php",
+		"/C/xampp2/htdocs/prompt/app/mlm/Stockist.php",
+		"/C/xampp2/htdocs/prompt/app/Http/routes.php",
+		"/C/xampp2/htdocs/prompt/resources/views/temp1/user/stockist-sales.blade.php",
+		"/C/xampp2/htdocs/Javascript/index.htm",
+		"/C/xampp2/htdocs/prompt/resources/views/temp1/user/stockist.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/temp1/user/signup.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/temp1/user/stockist-createsales.blade.php",
+		"/C/xampp2/htdocs/prompt/app/mlm/Sales.php",
+		"/C/xampp2/htdocs/prompt/javascript.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp2/htdocs/prompt/javascript.js",
+		"/C/xampp2/htdocs/prompt/resources/views/members/downline.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/members/statement-view.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/members/statement.blade.php",
+		"/C/xampp2/htdocs/prompt/app/Http/Controllers/MLM/admin/PayoutController.php",
+		"/C/xampp2/htdocs/prompt/hello",
+		"/C/xampp2/htdocs/prompt/app/Http/Controllers/MLM/admin/MemberController.php",
+		"/C/xampp2/htdocs/prompt/app/mlm/Member.php",
+		"/C/xampp2/htdocs/prompt/summa.php",
+		"/C/xampp2/htdocs/prompt/resources/views/members/create.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/members/statement-view-ref.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/members/statement-view-comm.blade.php",
+		"/C/xampp2/htdocs/prompt/resources/views/inventory/statement.blade.php",
+		"/C/xampp2/htdocs/prompt/.env",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/style.css",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/test.php",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/one.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/one",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a\nb\nc",
+			"a",
+			"epin",
+			"transfer",
+			"stock/returns",
+			"transfer",
+			"supplier",
+			"Supplier",
+			"supplier",
+			"Supplier",
+			"supplier",
+			"transfer",
+			"sales",
+			"raw",
+			"downline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"temp1/",
+				"resources/views/temp1/app.blade.php"
+			],
+			[
+				"temp1/down",
+				"resources/views/temp1/user/downline.blade.php"
+			],
+			[
+				"usercon",
+				"app/Http/Controllers/MLM/user/UserController.php"
+			],
+			[
+				"epin",
+				"resources/views/temp1/user/epins.blade.php"
+			],
+			[
+				"temp1/sto",
+				"resources/views/temp1/user/stockist.blade.php"
+			],
+			[
+				"signup",
+				"resources/views/temp1/user/signup.blade.php"
+			],
+			[
+				"temp1/user/epin",
+				"resources/views/temp1/user/epin-transfer.blade.php"
+			],
+			[
+				"temp1/user/",
+				"resources/views/temp1/user/signup.blade.php"
+			],
+			[
+				"sales",
+				"app/mlm/Sales.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"temp1/e",
+				"resources/views/temp1/user/epins.blade.php"
+			],
+			[
+				"stock",
+				"app/mlm/Stockist.php"
+			],
+			[
+				"inventory",
+				"app/Http/Controllers/MLM/admin/InventoryController.php"
+			],
+			[
+				"temp1/app",
+				"resources/views/temp1/app.blade.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"member",
+				"app/mlm/Member.php"
+			],
+			[
+				"create",
+				"resources/views/members/create.blade.php"
+			],
+			[
+				"downline",
+				"resources/views/members/downline.blade.php"
+			],
+			[
+				"statement-view-ref",
+				"resources/views/members/statement-view-ref.blade.php"
+			],
+			[
+				"state",
+				"resources/views/members/statement-view.blade.php"
+			],
+			[
+				"statment",
+				"resources/views/members/statement.blade.php"
+			],
+			[
+				"statement",
+				"resources/views/inventory/statement.blade.php"
+			],
+			[
+				"payout",
+				"app/Http/Controllers/MLM/admin/PayoutController.php"
+			],
+			[
+				"view/members/state",
+				"resources/views/members/statement-view.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}
